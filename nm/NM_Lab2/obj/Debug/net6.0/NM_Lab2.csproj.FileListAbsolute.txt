@@ -1,0 +1,15 @@
+C:\Users\OWNER\source\repos\NM_Lab2\bin\Debug\net6.0\NM_Lab2.exe
+C:\Users\OWNER\source\repos\NM_Lab2\bin\Debug\net6.0\NM_Lab2.deps.json
+C:\Users\OWNER\source\repos\NM_Lab2\bin\Debug\net6.0\NM_Lab2.runtimeconfig.json
+C:\Users\OWNER\source\repos\NM_Lab2\bin\Debug\net6.0\NM_Lab2.dll
+C:\Users\OWNER\source\repos\NM_Lab2\bin\Debug\net6.0\NM_Lab2.pdb
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.csproj.AssemblyReference.cache
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.AssemblyInfoInputs.cache
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.AssemblyInfo.cs
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.dll
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\refint\NM_Lab2.dll
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.pdb
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\NM_Lab2.genruntimeconfig.cache
+C:\Users\OWNER\source\repos\NM_Lab2\obj\Debug\net6.0\ref\NM_Lab2.dll

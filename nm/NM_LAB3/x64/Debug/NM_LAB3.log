@@ -1,0 +1,7 @@
+﻿  DirectIteration.cpp
+  SimpleMatrix.cpp
+  Source (2).cpp
+C:\Users\OWNER\source\repos\NM_LAB3\Source (2).cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Vector.cpp
+  Создание кода...
+  NM_LAB3.vcxproj -> C:\Users\OWNER\source\repos\NM_LAB3\x64\Debug\NM_LAB3.exe
